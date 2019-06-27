@@ -42,6 +42,7 @@ PODS:
     - SQLCipher/common
   - SQLCipher/standard (4.0.1):
     - SQLCipher/common
+  - SwiftyJSON (4.3.0)
 
 DEPENDENCIES:
   - SalesforceAnalytics (from `mobile_sdk/SalesforceMobileSDK-iOS`)
@@ -49,11 +50,13 @@ DEPENDENCIES:
   - SalesforceSDKCore (from `mobile_sdk/SalesforceMobileSDK-iOS`)
   - SmartStore (from `mobile_sdk/SalesforceMobileSDK-iOS`)
   - SmartSync (from `mobile_sdk/SalesforceMobileSDK-iOS`)
+  - SwiftyJSON (~> 4.0)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - FMDB
     - SQLCipher
+    - SwiftyJSON
 
 EXTERNAL SOURCES:
   SalesforceAnalytics:
@@ -75,7 +78,8 @@ SPEC CHECKSUMS:
   SmartStore: f176baeb2a3e092daa803c590632b529ff9d35d0
   SmartSync: cb418d12e1a20631cbd3c95cb0bcde39b21dca5c
   SQLCipher: 4636a257060f6f1b4e143a143028b61a2b462d0d
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: 70c427696dbe2cc18f38fbe365ed9c0ebc0b8996
+PODFILE CHECKSUM: 2c4a3e9f91ab501cdd2efb6b7f43440859fcb5cd
 
 COCOAPODS: 1.6.0
