@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "116120CF93A103E1D53F5B388ECA036A"
+               BlueprintIdentifier = "6B28BF904A26B2B8D8E35ED4958A3377"
                BuildableName = "SmartStore.framework"
                BlueprintName = "SmartStore"
                ReferencedContainer = "container:Pods.xcodeproj">
